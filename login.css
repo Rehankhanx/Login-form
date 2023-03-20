@@ -1,0 +1,30 @@
+
+input
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    
+    width:200px;
+  column-rule-color: brown;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+}
+input[type='submit']{
+  color: rgb(255, 255, 255);
+  background-color:red ;
+  border: none;
+  width:100px ;
+}
+
+ 
+form{
+   position: absolute;
+  top: 250px;
+  left: 720px; 
+  color: aliceblue;
+
+  
+
+
+  }
